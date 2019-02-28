@@ -13,7 +13,7 @@
     "layout"
   ],
   "dependencies": {
-    "graphlib": "^2.1.7",
+    "@delaguardo/graphlib": "^2.1.8-cljs",
     "lodash": "^4.17.11"
   },
   "devDependencies": {
