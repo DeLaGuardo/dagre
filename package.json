@@ -1,6 +1,6 @@
 {
   "name": "@delaguardo/dagre",
-  "version": "0.8.6-cljs",
+  "version": "0.8.7-cljs",
   "description": "Graph layout for JavaScript",
   "author": "Chris Pettitt <cpettitt@gmail.com>",
   "contributors": [
