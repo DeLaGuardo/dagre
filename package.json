@@ -1,6 +1,6 @@
 {
-  "name": "dagre",
-  "version": "0.8.5-pre",
+  "name": "@delaguardo/dagre",
+  "version": "0.8.5-cljs",
   "description": "Graph layout for JavaScript",
   "author": "Chris Pettitt <cpettitt@gmail.com>",
   "contributors": [
@@ -40,6 +40,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dagrejs/dagre.git"
-  }
+    "url": "git+https://github.com/DeLaGuardo/dagre.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DeLaGuardo/dagre/issues"
+  },
+  "homepage": "https://github.com/DeLaGuardo/dagre#readme"
 }
